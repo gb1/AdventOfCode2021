@@ -1,21 +1,45 @@
-# Aoc
-
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `aoc` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:aoc, "~> 0.1.0"}
-  ]
-end
+#🎅 Advent of Code 2021 in Elixir 🎅
 ```
+    |,\/,| |[_' |[_]) |[_]) \\//
+    ||\/|| |[_, ||'\, ||'\,  ||
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/aoc](https://hexdocs.pm/aoc).
+            ___ __ __ ____  __  __  ____  _  _    __    __
+           // ' |[_]| |[_]) || ((_' '||' |,\/,|  //\\  ((_'
+           \\_, |[']| ||'\, || ,_))  ||  ||\/|| //``\\ ,_))
+                                                               
 
+                                         ,;7,
+                                       _ ||:|,
+                     _,---,_           )\'  '|
+                   .'_.-.,_ '.         ',')  j
+                  /,'   ___}  \        _/   /
+      .,         ,1  .''  =\ _.''.   ,`';_ |
+    .'  \        (.'T ~, (' ) ',.'  /     ';',
+    \   .\(\O/)_. \ (    _Z-'`>--, .'',      ;
+     \  |   I  _|._>;--'`,-j-'    ;    ',  .'
+    __\_|   _.'.-7 ) `'-' "       (      ;'
+  .'.'_.'|.' .'   \ ',_           .'\   /
+  | |  |.'  /      \   \          l  \ /
+  | _.-'   /        '. ('._   _ ,.'   \i
+,--' ---' / k  _.-,.-|__L, '-' ' ()    ;
+ '._     (   ';   (    _-}             |
+  / '     \   ;    ',.__;         ()   /
+ /         |   ;    ; ___._._____.: :-j
+|           \,__',-' ____: :_____.: :-\
+|               F :   .  ' '        ,  L
+',             J  |   ;             j  |
+  \            |  |    L            |  J
+   ;         .-F  |    ;           J    L
+    \___,---' J'--:    j,---,___   |_   |
+              |   |'--' L       '--| '-'|
+               '.,L     |----.__   j.__.'
+                | '----'   |,   '-'  }
+                j         / ('-----';
+               { "---'--;'  }       |
+               |        |   '.----,.'
+               ',.__.__.'    |=, _/
+                |     /      |    '.
+                |'= -x       L___   '--,
+          snd   L   __\          '-----'
+                 '.____)
+```
